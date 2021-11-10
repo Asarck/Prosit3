@@ -1,0 +1,6 @@
+﻿  Parcours3D.cpp
+C:\Users\lucie\source\repos\Prosit3\Prosit3\Parcours3D.cpp(20,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\lucie\source\repos\Prosit3\Prosit3\Parcours3D.cpp(21,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\lucie\source\repos\Prosit3\Prosit3\Parcours3D.cpp(22,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\lucie\source\repos\Prosit3\Prosit3\Parcours3D.cpp(28): warning C4715: 'Parcours3D::CalcDist' : les chemins de contrôle ne retournent pas tous une valeur
+  Prosit3.vcxproj -> C:\Users\lucie\source\repos\Prosit3\x64\Debug\Prosit3.exe

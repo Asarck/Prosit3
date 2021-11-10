@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Point2D">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAIAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Point2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point3D">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="Point2D">
+      <InheritanceModifierLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.36" Y="0.077" Height="0.182" Width="0.5" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Point3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcours3D">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAARQAAACA=</HashCode>
+      <FileName>Parcours3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parcours2D">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAJQAAACA=</HashCode>
+      <FileName>Parcours2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
